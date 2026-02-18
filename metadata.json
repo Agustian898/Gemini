@@ -1,0 +1,5 @@
+{
+  "name": "Timelapse Architect",
+  "description": "A luxury architectural timelapse generator using Gemini and Imagen models.",
+  "requestFramePermissions": []
+}
